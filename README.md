@@ -13,3 +13,7 @@ git commit -m "messaggio"
 ```
 git push
 ```
+### download in repository locale / pullare da Github
+```
+git pull
+```
